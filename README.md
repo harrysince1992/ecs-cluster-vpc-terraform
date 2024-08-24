@@ -1,4 +1,4 @@
-This terraform code creates below resources on AWS
+# This terraform code creates below resources on AWS
 
 1. AWS VPC
 2. One private subnet and 2 public subnets
